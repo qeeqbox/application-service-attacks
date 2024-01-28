@@ -109,6 +109,6 @@ A threat actor captures transmitted data and then repeats it (It's also called p
 
 A threat actor captures a hashed user credential (Not the actual password) and reuses it (The threat actor is getting authenticated without using the password itself or cracking it)
 
-Example
+#### Example
 
 *   A threat actor requests access (Connection request), the server responds with an authentication challenge, the threat actor sends the username and the captured hash, the server checks the hash and grants access to resources
